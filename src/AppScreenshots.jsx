@@ -11,7 +11,7 @@ const screens = [
     headline: "Everything you saved,\nready when you are.",
     accent: "#F07040",
     // Replace the src below with your real screenshot
-    imgSrc: '/screen1.PNG',
+    imgSrc: '/screen1.png',
     imgAlt: "EchoFeed home screen — personalized feed of saved content",
     // Placeholder description shown inside the phone frame when no image
     placeholderLines: ["Today's Feed", "3 episodes ready", "12 saves this week"],
@@ -21,7 +21,7 @@ const screens = [
     label: "Podcast experience",
     headline: "Your beliefs,\nplaying in your ears.",
     accent: "#FF8C5A",
-    imgSrc: '/screen2.PNG', // Replace with your screenshot path
+    imgSrc: '/screen2.png', // Replace with your screenshot path
     imgAlt: "EchoFeed podcast player — personalized audio episode",
     placeholderLines: ["Now Playing", "Episode #14", "22 min · Your saves"],
   },
@@ -30,7 +30,7 @@ const screens = [
     label: "AI coach",
     headline: "Ask anything.\nGet answers from you.",
     accent: "#F07040",
-    imgSrc: '/screen3.PNG', // Replace with your screenshot path
+    imgSrc: '/screen3.png', // Replace with your screenshot path
     imgAlt: "EchoFeed chat — AI coach responding with your saved content",
     placeholderLines: ["EchoFeed AI", "Based on your saves…", "3 insights found"],
   },
